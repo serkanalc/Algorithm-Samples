@@ -1,6 +1,5 @@
 def yildiz_ucgen_ciz():
-  yukseklik = 10
-  print("Yıldız üçgen çiziliyor:")
+  yukseklik = 7
   for i in range(1,yukseklik):
     print(" "*(yukseklik - i),"*"*(i*2-1))
  
