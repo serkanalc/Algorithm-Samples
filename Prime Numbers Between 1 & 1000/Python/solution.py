@@ -1,9 +1,9 @@
 d = 1 
 u = 1000 
   
-for sayi in range(d,u + 1):  
+for num in range(d,u + 1):  
    if num > 1:  
-       for i in range(2,num/2):  
+       for i in range(2,num):  
            if (num % i) == 0:  
                break  
        else:  
