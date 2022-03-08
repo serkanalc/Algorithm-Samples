@@ -5,10 +5,9 @@
 
 ## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
 
+If you think it has helped you, you can star this repo and join the [Stargazers](https://github.com/zeynep-duyenli/Algorithm-Samples/stargazers) and motivate us to share similar resources.⭐
 
-Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/zeynep-duyenli/Modern-Android-Projects/stargazers)'ların arasına katılıp bizi buna benzer kaynak paylaşımları yapmaya motive edebilirsiniz.⭐
-
-Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksikse veya düzeltilmesi gerekiyorsa lütfen ilgili kişilere ulaşarak bunu bildirin ve en kısa sürede düzenlememize katkıda bulunmuş olun 👍🏻
+This repo has been developed on a voluntary basis, so if something is missing or needs to be corrected, please contact the relevant people and let us know and contribute to our arrangement as soon as possible 👍🏻
 
 ## 🧾 Lisans
 
