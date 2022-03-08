@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif" width='1080' /> 
 
 
-## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
+## ⭐ Find this project useful?
 
 If you think it has helped you, you can star this repo and join the [Stargazers](https://github.com/zeynep-duyenli/Algorithm-Samples/stargazers) and motivate us to share similar resources.⭐
 
